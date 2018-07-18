@@ -27,11 +27,5 @@
     }
   ],
 
-  "web_accessible_resources": ["pjax-handler.js"],
-
-  "applications": {
-    "gecko": {
-      "id": "asd@asd.asd"
-    }
-  }
+  "web_accessible_resources": ["pjax-handler.js"]
 }
