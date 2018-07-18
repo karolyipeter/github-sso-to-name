@@ -18,6 +18,8 @@ This extension replaces a users' Enterprise ID with their name in GitHub Enterpr
 
 Feel free to open issues or pull requests. I won't actively develop this, since it fits my needs, but I'm willing to look into any bugs or feature requests.
 
+Also feel free to port this new version to Chrome or any other browser. I don't feel the need for this, since the original works well on Chrome.
+
 ## License
 
 This is shared under the GPL V3 License.  Logo is used from Wikipedia under CC-SA 3.0 License.
