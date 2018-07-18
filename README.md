@@ -4,7 +4,7 @@ This is a rework of [iamkirkbater's Chrome plugin](https://raw.githubusercontent
 
 ## Installation
 
-Installation should happen from the [Add-ons for Firefox]() site.
+Installation should happen from the [Add-ons for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/github-enterprise-sso-to-name/) site.
 
 ## Configuration
 
